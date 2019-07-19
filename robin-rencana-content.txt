@@ -4,3 +4,4 @@ rencan content robin
   +menambah form login fan register
 -php framework
 -bikin vlog
+-fundamental data structur
