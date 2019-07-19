@@ -1,4 +1,6 @@
 rencan content robin
 -kedepanya bikin javascript
+  +framework javascript
+  +menambah form login fan register
 -php framework
 -bikin vlog
