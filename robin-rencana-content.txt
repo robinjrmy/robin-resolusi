@@ -1,7 +1,10 @@
 rencan content robin
 -kedepanya bikin javascript
   +framework javascript
+    *angular
+    *react
   +menambah form login fan register
 -php framework
+  +laravel
 -bikin vlog
--fundamental data structur
+
