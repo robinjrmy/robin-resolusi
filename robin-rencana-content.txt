@@ -1,10 +1,12 @@
 rencan content robin
 -kedepanya bikin javascript
   +framework javascript
-    *angular
+    *belajar View
     *react
   +menambah form login fan register
 -php framework
-  +laravel
+  +framework laravel
 -bikin vlog
+-fundamental data structur
+-phyton
 
