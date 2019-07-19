@@ -2,6 +2,7 @@ rencan content robin
 -kedepanya bikin javascript
   +framework javascript
     *belajar View
+    *react
   +menambah form login fan register
 -php framework
   +framework laravel
